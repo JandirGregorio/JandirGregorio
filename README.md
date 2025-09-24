@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jandir Gregorio 👋
 
-<!--
-**JandirGregorio/JandirGregorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🏫 About Me
+- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
+- Born in July 31, 2004 → Raised in Guatemala → Currently in Hamilton, NJ.
+- Outside of work I like to play videogames, watch anime/movies, and play guitar.
+- Let's connect via email: jandirgregorio@icloud.com
 
-Here are some ideas to get you started:
+## Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- JavaScript
+
+### Frameworks & Libraries
+- Node.js
+
+### Tools
+- Git
+- GitHub
