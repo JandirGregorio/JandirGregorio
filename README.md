@@ -10,6 +10,7 @@
 
 ### Languages
 - JavaScript
+- Java
 
 ### Frameworks & Libraries
 - Node.js
