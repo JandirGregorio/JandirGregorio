@@ -2,7 +2,7 @@
 
 ## 👨‍🏫 About Me
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
-- Born in July 31, 2004 → Raised in Guatemala → Currently in Hamilton, NJ.
+- Born in Guatemala → Raised in Guatemala → Currently in Hamilton, NJ.
 - Outside of work I like to play videogames, watch anime/movies, and play guitar.
 - Let's connect via email: jandirgregorio@icloud.com
 
@@ -10,6 +10,7 @@
 
 ### Languages
 - JavaScript
+- Java
 
 ### Frameworks & Libraries
 - Node.js
