@@ -1,16 +1,19 @@
 # Hi, I'm Jandir Gregorio 👋
 
 # About Me:
-- [Marcy Lab School](https://www.marcylabschool.org/) grad → Full-Stack Software Engineer.<br>- Born in Guatemala → Raised in Guatemala → Currently in Hamilton, NJ.<br>- Outside of work I like to play video games, watch anime/movies, and play guitar.
+- [Marcy Lab School](https://www.marcylabschool.org/) grad → Full-Stack Software Engineer
 
-🔭 Interested in: Full Stack Software Engineering, Backend Engineering, AI, Software Engineering
+- Born in Guatemala → Raised in Guatemala → Currently in Hamilton, NJ
 
-I got into software engineering because of how versatile it can be — giving you the power to create solutions that benefit you personally and many other people. In the future, I hope to expand my skillset to create robust and reliable systems. Right now, I'm learning Spring Boot to build backends with Java.
+- Outside of work I like to play video games, watch anime/movies, and play guitar.
 
-I'm open to new opportunities!
+**Interested in:** Full Stack Software Engineering, Backend Engineering, AI, Software Engineering
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandir-gregorio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jandirgreg@gmail.com) 
+I got into software engineering because of how versatile it can be — giving you the power to create solutions that benefit you personally and many other people. This was solidified by one of my most recent projects: Kinnect. I want to work on products that benefit underrepresented communities in the education, health, and security sectors.
+
+Right now, I'm learning Spring Boot to build backends with Java.
+
+Reach out to me at [jandirgreg@gmail.com](mailto:jandirgreg@gmail.com) or [linkedin.com/in/jandirgregorio](http://www.linkedin.com/in/jandirgregorio)
 
 # Tech Stack:
 
