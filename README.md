@@ -11,7 +11,7 @@
 
 I got into software engineering because of how versatile it can be — giving you the power to create solutions that benefit you personally and many other people. This was solidified by one of my most recent projects: Kinnect. I want to work on products that benefit underrepresented communities in the education, health, and security sectors.
 
-Right now, I'm learning Spring Boot to build backends with Java.
+Right now, I'm expanding my skills by learning Redis and AWS.
 
 Reach out to me at [jandirgreg@gmail.com](mailto:jandirgreg@gmail.com) or [linkedin.com/in/jandirgregorio](http://www.linkedin.com/in/jandirgregorio)
 
